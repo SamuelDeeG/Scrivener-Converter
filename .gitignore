@@ -1,0 +1,19 @@
+# PyInstaller
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test project folders
+Example Scrivener Project/
+Example Ulysses Project/
+Scriv Converted Example/
