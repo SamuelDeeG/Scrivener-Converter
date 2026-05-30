@@ -3,7 +3,7 @@
 
 # Scrivener Converter
 
-A Windows desktop app for converting between Ulysses and Scrivener project formats in both directions.
+A Windows desktop app for converting between Ulysses and Scrivener project formats.
 
 ## Download
 
