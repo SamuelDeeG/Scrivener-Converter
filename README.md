@@ -6,6 +6,8 @@ A Windows desktop app for converting between Ulysses and Scrivener project forma
 
 Download **`Scrivener Converter.exe`** from this repository. No installation or Python required just run the exe.
 
+> **Note:** Windows may show a "Windows protected your PC" SmartScreen warning the first time you run it. This is normal for unsigned apps. Click **More info → Run anyway** to proceed.
+
 ---
 
 ## How to Use
